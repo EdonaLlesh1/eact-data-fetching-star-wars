@@ -35,7 +35,7 @@ const List = styled.ul`
   text-decoration: none;
 `;
 
-const StyledLink = styled(Link)`
+const StyledLink = styled.a`
   text-decoration: none;
   color: var(--color-dark);
 `;
